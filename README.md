@@ -109,7 +109,7 @@ The Dapp user interface will open as below:
 
 Add each role with corresponding account , fill in the required fields and click the buttons to submit for each state
 
-Transaction records wil be shown as below:
+Transaction records will be shown as below:
 
 ![img](pics/index2.png)
 
