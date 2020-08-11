@@ -69,7 +69,7 @@ Change directory to ```Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain``` 
 cd Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain
 npm install
 ```
-creat and save your Metamask mnemonic in a text file and name it as .secret
+Creat and save your Metamask mnemonic in a text file and name it as .secret
 
 ## Running tests with Ganache:
 
