@@ -69,6 +69,8 @@ Change directory to ```Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain``` 
 cd Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain
 npm install
 ```
+creat and save your Metamask mnemonic in a text file and name it as .secret
+
 ## Running tests with Ganache:
 
 Launch Ganache:
@@ -81,29 +83,7 @@ Your terminal should look something like this:
 
 ![img](pics/ganache-cli.png)
 
-In a separate terminal window, Compile smart contracts:
-
-```
-truffle compile
-```
-
-Your terminal should look something like this:
-
-![img](pics/truffle_compile.png)
-
-This will create the smart contract artifacts in folder ```build\contracts```.
-
-Migrate smart contracts to the locally running blockchain, ganache-cli:
-
-```
-truffle migrate
-```
-
-Your terminal should look something like this:
-
-![img](pics/truffle_migrate.png)
-
-Test smart contracts:
+In a separate terminal window, test smart contracts:
 
 ```
 truffle test
